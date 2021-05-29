@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Antoineok</h1>
-<h3 align="center">A passionate Java/C# developer from France</h3>
+<h3 align="center">A Java developer from France</h3>
 
 - 🌱 I’m currently learning **C# and C++**
 
